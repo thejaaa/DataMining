@@ -7,8 +7,8 @@
 
 #### Powerpoint
 
-[ALEXNET] (https://github.com/vootkurithejaswini/DataMining-vootkuri/blob/master/Assignments/wiki_contributions/alexnet.pptx)
+[ALEXNET](https://github.com/vootkurithejaswini/DataMining-vootkuri/blob/master/Assignments/wiki_contributions/alexnet.pptx)
 
 #### Contributed Words
 
-[ALEXNET] (https://github.com/rugbyprof/5443-Data-Mining/wiki/ALEXNET)  
+[ALEXNET](https://github.com/rugbyprof/5443-Data-Mining/wiki/ALEXNET)  
