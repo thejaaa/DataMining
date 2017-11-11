@@ -7,7 +7,7 @@
 
 #### Powerpoint
 
-![My Powerpoint Presentation]
+![ALEXNET]https://github.com/vootkurithejaswini/DataMining-vootkuri/blob/master/Assignments/wiki_contributions/alexnet.pptx
 
 #### Contributed Words
 
