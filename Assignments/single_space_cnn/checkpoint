@@ -1,0 +1,2 @@
+model_checkpoint_path: "Single_space_cnn_3"
+all_model_checkpoint_paths: "Single_space_cnn_3"
